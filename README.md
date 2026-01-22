@@ -49,20 +49,17 @@ Visualización de datos
 
 Generación de variables de interés
 
-Resultados
+### Resultados
 
 Se realizó un dashboard interactivo dónde se puede observar datos relevantes, a la vez que se puede filtrar sectores específicos para detectar patrones o incluso consultar un inmueble para ver sus características
 
 
 
-🚀 Cómo ejecutar el proyecto
+### 🚀 Cómo ejecutar el proyecto
 
 Descargar el archivo dashboard_apartments.pbix y abrirlo en Power BI.
 
 Para ejecutar la limpieza
-
-Clonar el repositorio:
-
 
 Clonar el repositorio:
 
