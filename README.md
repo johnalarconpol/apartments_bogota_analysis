@@ -71,3 +71,13 @@ Crear entorno virtual e instalar dependencias:
 pip install -r requirements.txt
 
 Ejecutar notebooks de limpieza y análisis.
+
+Recomendaciones
+
+Ejecutar en Jupyter Notebook y usar Power BI directamente.
+
+
+<img width="202" height="109" alt="2" src="https://github.com/user-attachments/assets/6d043db6-5893-4c6b-a7ae-440926d890de" />
+
+
+Este proyecto se realizó exclusivamente con fines didácticos.
