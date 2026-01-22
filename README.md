@@ -22,11 +22,11 @@ La información obtenida permitira filtrar un inmueble con sus características.
 │   └── dashboard_apartments.pbix           # Tablero de gráficas
 └── 📄 .gitignore
 ```
-Análisis del proyecto
+### Análisis del proyecto
 
 Mediante el EDA se transformaron y agruparon características para poseteriormente crear vistas que permita ver la información de manera organizada y resumida, todo en un dashboard en Power BI.
 
-🛠️ Tecnologías utilizadas
+### 🛠️ Tecnologías utilizadas
 
 Python 🐍
 
@@ -41,7 +41,7 @@ https://erik172.notion.site/Bogota-Apartments-1c697c876c344f0d9047830ef2254ba4
 
 (actualización 2 de agosto del 2024).
 
-Habilidades
+### Habilidades
 
 Limpieza de datos
 
@@ -52,6 +52,8 @@ Generación de variables de interés
 Resultados
 
 Se realizó un dashboard interactivo dónde se puede observar datos relevantes, a la vez que se puede filtrar sectores específicos para detectar patrones o incluso consultar un inmueble para ver sus características
+
+
 
 🚀 Cómo ejecutar el proyecto
 
@@ -60,42 +62,7 @@ Descargar el archivo dashboard_apartments.pbix y abrirlo en Power BI.
 Para ejecutar la limpieza
 
 Clonar el repositorio:
-Análisis del proyecto
 
-Mediante el EDA se transformaron y agruparon características para poseteriormente crear vistas que permita ver la información de manera organizada y resumida, todo en un dashboard en Power BI.
-
-🛠️ Tecnologías utilizadas
-
-Python 🐍
-
-Pandas / Numpy
-
-Power BI
-
-Jupyter Notebook
-
-Agradecimiento a la fuente de los datos proviene del proyecto de
-https://erik172.notion.site/Bogota-Apartments-1c697c876c344f0d9047830ef2254ba4
-
-(actualización 2 de agosto del 2024).
-
-Habilidades
-
-Limpieza de datos
-
-Visualización de datos
-
-Generación de variables de interés
-
-Resultados
-
-Se realizó un dashboard interactivo dónde se puede observar datos relevantes, a la vez que se puede filtrar sectores específicos para detectar patrones o incluso consultar un inmueble para ver sus características
-
-🚀 Cómo ejecutar el proyecto
-
-Descargar el archivo dashboard_apartments.pbix y abrirlo en Power BI.
-
-Para ejecutar la limpieza
 
 Clonar el repositorio:
 
