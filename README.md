@@ -17,14 +17,18 @@ La información obtenida permitira filtrar un inmueble con sus características.
 ├── 📁 src
 │   └──📄 requirements.txt
 ├── 📁 notebooks
-│   ├── 01_EDA.ipynb                        # Análisis de datos exploratorios
-│   ├── README.ipynb                        # Resúmen del proyecto
-│   └── dashboard_apartments.pbix           # Tablero de gráficas
+│   └── 01_EDA.ipynb                        # Análisis de datos exploratorios
+├── 📁 reports
+│   └── dashboard_apartments.pbix           # Dashboard
+│
+├── 📄 README.ipynb                        # Resúmen del proyecto
+├── 📄 .gitattributes
 └── 📄 .gitignore
+
 ```
 ### Análisis del proyecto
 
-Mediante el EDA se transformaron y agruparon características para poseteriormente crear vistas que permita ver la información de manera organizada y resumida, todo en un dashboard en Power BI.
+Mediante el EDA se transformaron y agruparon características para posteriormente crear vistas que permita ver la información de manera organizada y resumida, todo en un dashboard en Power BI.
 
 ### 🛠️ Tecnologías utilizadas
 
