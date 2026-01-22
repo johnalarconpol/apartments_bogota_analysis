@@ -53,6 +53,7 @@ Generación de variables de interés
 
 Se realizó un dashboard interactivo dónde se puede observar datos relevantes, a la vez que se puede filtrar sectores específicos para detectar patrones o incluso consultar un inmueble para ver sus características
 
+<img width="1116" height="627" alt="1" src="https://github.com/user-attachments/assets/b7cd11a2-71e5-4335-a34f-9ecf8f24ac4e" />
 
 
 ### 🚀 Cómo ejecutar el proyecto
